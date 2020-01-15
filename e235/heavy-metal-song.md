@@ -26,7 +26,7 @@ Have a dream of being in a successful metal band but don't know how to start? Th
 * The basic song structure of rock and metal songs goes: intro, verse, chorus, verse, solo, chorus, chorus, outro.
 
 
-## Step 3: Add Drums and Bass
+## Step 3: Add Drums And A Bass
 
 ![Bass!](https://img.discogs.com/PDCEMsKh8K06O3hrq1DEcwEj1po=/600x923/smart/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/A-77192-1560366356-9261.jpeg.jpg)
 
